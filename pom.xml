@@ -9,7 +9,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<java.version>1.8</java.version>
+		<java.version>1.6</java.version>
 		<javax.inject.version>1</javax.inject.version>
 	</properties>
 
@@ -51,4 +51,8 @@
 
 	</build>
 
+	<modules>
+		<module>fiveware-test-service</module>
+		<module>fiveware-test-web</module>
+	</modules>
 </project>

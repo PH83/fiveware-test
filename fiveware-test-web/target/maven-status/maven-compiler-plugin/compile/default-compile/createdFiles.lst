@@ -1,0 +1,4 @@
+br\com\fiveware\config\JPAConfiguration.class
+br\com\fiveware\controller\CadastroUsuarioController.class
+br\com\fiveware\config\ApplicationWebConfig.class
+br\com\fiveware\config\ServletSpringMVC.class
